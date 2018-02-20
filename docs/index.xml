@@ -6,20 +6,10 @@
     <description>Recent content on church_of_turing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Feb 2018 20:49:40 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 20:23:42 +1100</lastBuildDate>
     
 	<atom:link href="https://churchofturing.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://churchofturing.org/about/</link>
-      <pubDate>Tue, 20 Feb 2018 20:49:40 +1100</pubDate>
-      
-      <guid>https://churchofturing.org/about/</guid>
-      <description>So what&amp;rsquo;s this all about then? Well, the idea of this website started off as a joke. The entire site, down to its subtitles and calls to action are puns on famous mathematicians who made real the idea of an algorithm, from Emil Post, to Alonzo Church and Alan Turing, to Kurt Gödel.
-There is of course the second level of punnery. In OCaml, the string conversion functions between types have a pattern that looks something like this: a_of_b.</description>
-    </item>
     
     <item>
       <title>The Church Of Turing</title>
@@ -28,6 +18,16 @@ There is of course the second level of punnery. In OCaml, the string conversion 
       
       <guid>https://churchofturing.org/</guid>
       <description>Welcome to the Church of Turing.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://churchofturing.org/about/</link>
+      <pubDate>Tue, 01 Jan 1337 13:37:00 +0000</pubDate>
+      
+      <guid>https://churchofturing.org/about/</guid>
+      <description>So what&amp;rsquo;s this all about then? Well, the idea of this website started off as a joke. The entire site, down to its subtitles and calls to action are puns on famous mathematicians who made real the idea of an algorithm, from Emil Post, to Alonzo Church and Alan Turing, to Kurt Gödel.
+There is of course the second level of punnery. In OCaml, the string conversion functions between types have a pattern that looks something like this: string_of_int.</description>
     </item>
     
   </channel>

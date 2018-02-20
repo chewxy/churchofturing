@@ -26,11 +26,18 @@ main {
 
 .intro {
     transform: translateY(22vh);
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
 
 .intro > h1 {
     color: #212121;
     font-size: 12vh;
+     margin-left: -100%;
+    margin-right: -100%;
+    text-align: center;
 }
 
 .intro > h2 {

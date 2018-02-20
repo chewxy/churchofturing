@@ -25,4 +25,9 @@ publishDir= "../docs"
     url = "/about/"
     name = "About"
 
+[[menu.icon]]
+    url = "https://twitter.com/churchofturing/"
+    name = "twitter"
+    weight = 1
+
 

@@ -12,23 +12,3 @@ For now, the plan is to have a set of semi-regular blog Posts (har har, geddit?)
 Mind, the Church of Turing isn't a Temple of Functional Programming, nor is it a Altar of Tape. We do not take sides. We compute. And one form of computation is as good as another.
 
 To stay tuned to the next post, do sign up to get notifications in your email. We promise it will be not quite Incomplete.
-
-<div style="border:1px dotted #000000; margin-left:auto;margin-right: auto; width:300px; padding: 5px 5px 15px 5px; text-align: center;">
-	<div id="mc_embed_signup">
-		<form action="https://pressyo.us4.list-manage.com/subscribe/post?u=27add81bcd6295bf1aa7918b0&amp;id=990851d9a9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-		    <div id="mc_embed_signup_scroll">
-			<h3>Get It In The Post</h3>
-		<div class="mc-field-group">
-			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-		</div>
-			<div id="mce-responses" class="clear">
-				<div class="response" id="mce-error-response" style="display:none"></div>
-				<div class="response" id="mce-success-response" style="display:none"></div>
-			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-		    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_27add81bcd6295bf1aa7918b0_990851d9a9" tabindex="-1" value=""></div>
-		    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-		    </div>
-		</form>
-		</div>
-	</div>
-</div>

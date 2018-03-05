@@ -110,3 +110,13 @@ footer {
 img {
     max-width: 100%;
 }
+
+.cta {
+    border:1px dotted #000000; 
+    margin-left:auto;
+    margin-right: auto; 
+    width:300px; 
+    padding: 5px 5px 15px 5px; 
+    text-align: center;
+
+}

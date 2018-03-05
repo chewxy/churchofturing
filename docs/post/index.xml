@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on church_of_turing</title>
+    <link>https://churchofturing.org/post/</link>
+    <description>Recent content in Posts on church_of_turing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Mar 2018 14:39:26 +1100</lastBuildDate>
+    
+	<atom:link href="https://churchofturing.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is an Algorithm?</title>
+      <link>https://churchofturing.org/post/what-is-an-algorithm/</link>
+      <pubDate>Mon, 05 Mar 2018 14:39:26 +1100</pubDate>
+      
+      <guid>https://churchofturing.org/post/what-is-an-algorithm/</guid>
+      <description>Conversations with children can often be very illuminating, and often in both directions. I spent the past weekend with a 7-year old child, and the child&amp;rsquo;s 2-year old sibling. As a result we had many wonderful conversations about mathematics. The 7-year old (hence forth called J, and to simplify things, I&amp;rsquo;ll use the &amp;ldquo;he&amp;rdquo;/&amp;ldquo;him/his&amp;rdquo; pronoun).
+J knows and understands fairly well, the concept of addition and subtraction. He&amp;rsquo;s a little shaky on multiplication and is unsure about division.</description>
+    </item>
+    
+  </channel>
+</rss>

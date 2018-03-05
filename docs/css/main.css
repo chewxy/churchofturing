@@ -51,6 +51,11 @@ main {
     border-radius: 50%;
 }
 
+.latest {
+    margin:auto;
+    max-width: 750px;
+}
+
 /*apply accent colour to links*/
 
 a:link, a:visited {

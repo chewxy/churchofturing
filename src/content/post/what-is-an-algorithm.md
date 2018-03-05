@@ -2,7 +2,6 @@
 title: "What Is an Algorithm?"
 date: 2018-03-05T14:39:26+11:00
 author: "chewxy"
-draft: true
 ---
 
 Conversations with children can often be very illuminating, and often in both directions. I spent the past weekend with a 7-year old child, and the child's 2-year old sibling. As a result we had many wonderful conversations about mathematics. The 7-year old (hence forth called J, and to simplify things, I'll use the "he"/"him/his" pronoun). 

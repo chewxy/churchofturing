@@ -1,5 +1,5 @@
 ---
-title: "What Is an Algorithm"
+title: "What Is an Algorithm?"
 date: 2018-03-05T14:39:26+11:00
 author: "chewxy"
 draft: true
@@ -21,15 +21,17 @@ If we start with a rule that says the only way to access another number is troug
 
 That J recognized this early is quite remarkable. Adults often take this for granted. When introspective, we would of course realize we're taking one step after another. However, we didn't have a way to describe it except in ad-hoc fashion. In fact, it wasn't until the 1920s that mathematicians started wondering about the formalizing the notion of "steps" in doing mathematics. 
 
-Following the publication of Whitehead and Russell, and the posing of the Entscheidungsproblem, Emil Post did a lot of work in the 1920s in trying to formalize the notion of a "step". Convinced he was going down the wrong path, he did not publish until the 1940s. At the same time, much work was being done by Alan Turing and Alonzo Church. An often-unmentioned contemporary, George Stibitz, may also have invented something of the notion of a Turing Machine.
+Following the publication of [Whitehead and Russell](https://en.wikipedia.org/wiki/Principia_Mathematica), and the posing of the [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem), Emil Post did a lot of work in the 1920s in trying to formalize the notion of a "step". Convinced he was going down the wrong path, he did not publish until the 1940s. At the same time, much work was being done by Alan Turing and Alonzo Church. An often-unmentioned contemporary, George Stibitz, may also have invented something of the notion of a Turing Machine.
 
-Lambda calculus and Turing machines are formalizations of algorithms - the methods of formalization are different, but end up being different views of the same thing. The "thing" in question is what we now call an algorithm.
+[Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) and [Turing machines](https://en.wikipedia.org/wiki/Turing_machine) are formalizations of algorithms - the methods of formalization are different, but end up being different views of the same thing. The "thing" in question is what we now call an algorithm.
 
 ## What is An Algorithm? ##
 
 The so-called encapsulation of steps is an informal defination of an algorithm: A sequence of operations to be taken one after another. This arises very naturally in real life. We as humans, do one thing, then the next, and then the next, in sequence. The notion of "nextness" is the root of all algorithms. 
 
 Here I must note that it is a very common thing for young children to repeatedly ask "and then?" - often to annoy adults around them -  but more and more, I am starting to believe that it is a "default mode" of a child's brain. The brain in its default state, I believe to be an emergent unhalting algorithm - the exact model of computation I suspect is closer to an infinite automata, which in some ways can be seen to be more powerful than Turing machines/lambda calculus.
+
+But I digress.
 
 
 ### Features of An Algorithm ###
@@ -43,17 +45,22 @@ It's hard to pinpoint exactly what is an algorithm. We are of course able to inf
 
 There is one other thing that an algorithm must have in order to be formalized - Algorithms are made up of a finite sequence of symbols, made up of a finite alphabet. But this has to do more with the technical parts, which this post will skip.
 
+The series of operations that is performed on the input, together with the input, is called an algorithm. 
+
 ### Computation ###
 
 A computation is simply an operation to be performed slavishly according to the rules of the system. Turing himself remarked that it was to be done in a desultory manner.  Therefore **an algorithm is just a sequence of operations to be performed strictly according to the rules of the system**.  
 
 The rules of the system are the rules that are necessary to solve a problem: a "programme"/"menu"/"listing" of rules, if you will. Take a guess which term came to be uses in popular parlance.
 
-The notion of computation is inextricably linked to the idea of computability. At the risk of sounding tautological, a computable thing is one that can be computed by a computation, and thus is able to be represented as an algorithm. Conversely speaking, if the computation does not terminate, then it means that it cannot be represented by an algorithm.
+
+The notion of computation is inextricably linked to the idea of computability. At the risk of sounding tautological, a computable thing is one that can be computed by a computer, the act of which is called a computation and thus is able to be represented as an algorithm. Conversely speaking, if the computation does not terminate, then it means that it cannot be represented by an algorithm.
 
 **Computable functions** are a special case of algorithms where the input and outut of the algorithm are numbers. **Computably enumerable sets** are sets where there is a computable function that can produce all the members of the set. This is particularly important in analysis, because as it turns out there are such things as computably enumerable but uncomputable sets.
 
-I will leave the topic of non-computable stuff to future posts.
+In particular, the idea that **computable functions** are functions with numbers as inputs and outputs only should be troubling to the daily programmer. "But I write functions to deal with various things all the time!", is what one would say. I shall cover that in the future, when I discuss Gödelization.
+
+I will also leave the topic of non-computable stuff to future posts.
 
 ## Back to Scheduled Programming ##
 

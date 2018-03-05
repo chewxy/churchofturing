@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 1337-01-01T13:37:00+00:00
+date: 1930-11-17T13:37:00+00:00
 ---
 
 So what's this all about then? Well, the idea of this website started off as a joke. The entire site, down to its subtitles and calls to action are puns on famous mathematicians who made real the idea of an algorithm, from [Emil Post](https://en.wikipedia.org/wiki/Emil_Leon_Post), to [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) and [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), to [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del). 

@@ -11,7 +11,9 @@ publishDir= "../docs"
     accent = "blue"
     showBorder = false
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Fira Sans" # should match the name on Google Fonts!
+    headerfont = "Roboto Slab"
+    monospacefont = "Space Mono"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -24,6 +26,10 @@ publishDir= "../docs"
 [[menu.main]]
     url = "/about/"
     name = "About"
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
 
 [[menu.icon]]
     url = "https://twitter.com/churchofturing/"
